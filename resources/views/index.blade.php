@@ -30,6 +30,7 @@
       <p>Anda bisa menghubungi saya melalui:</p>
       <p class="mt-1">Email: <a href="mailto:larakhaap@gmail.com" class="underline">larakhaap@gmail.com</a></p>
       <p class="mt-1">Telepon: <a href="tel:081325024166" class="underline">081325024166</a></p>
+      <p class="mt-1">About Me: <a href="{{ route('about') }}">About Me</a>
     </div>
   </div>
 </div>
